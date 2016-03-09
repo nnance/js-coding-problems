@@ -8,7 +8,8 @@
     "test": "mocha test/*"
   },
   "keywords": [
-    "node"
+    "node",
+    "interview"
   ],
   "author": "Nick Nance",
   "license": "ISC",
