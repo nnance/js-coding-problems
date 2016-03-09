@@ -1,0 +1,27 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "Interview questions",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha test/*"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Nick Nance",
+  "license": "ISC",
+  "dependencies": {
+    "highland": "^2.7.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^5.0.0",
+    "chai": "^3.5.0",
+    "eslint": "^1.10.3",
+    "eslint-config-defaults": "^9.0.0",
+    "eslint-plugin-filenames": "^0.2.0",
+    "mocha": "^2.4.5",
+    "nodemon": "^1.9.1"
+  }
+}

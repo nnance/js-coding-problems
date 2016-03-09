@@ -1,0 +1,8 @@
+{
+  "extends": "defaults/configurations/walmart/es6-node",
+  "rules": {
+    "semi": [2, "never"],
+    "no-console": 0,
+    "no-magic-numbers": 0
+  }
+}
